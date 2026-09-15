@@ -1,0 +1,97 @@
+id,entity_id,name,asset_type,criticality,telemetry_enabled
+asset-00001,ent-001,Energy Operator 01 asset 01,OT,critical,true
+asset-00002,ent-001,Energy Operator 01 asset 02,IT,critical,true
+asset-00003,ent-001,Energy Operator 01 asset 03,OT,high,true
+asset-00004,ent-001,Energy Operator 01 asset 04,IT,high,true
+asset-00005,ent-001,Energy Operator 01 asset 05,OT,high,true
+asset-00006,ent-001,Energy Operator 01 asset 06,IT,high,true
+asset-00007,ent-001,Energy Operator 01 asset 07,OT,high,true
+asset-00008,ent-001,Energy Operator 01 asset 08,IT,high,true
+asset-00009,ent-002,Financial Services Operator 02 asset 01,OT,critical,true
+asset-00010,ent-002,Financial Services Operator 02 asset 02,IT,critical,true
+asset-00011,ent-002,Financial Services Operator 02 asset 03,OT,high,true
+asset-00012,ent-002,Financial Services Operator 02 asset 04,IT,high,true
+asset-00013,ent-002,Financial Services Operator 02 asset 05,OT,high,true
+asset-00014,ent-002,Financial Services Operator 02 asset 06,IT,high,true
+asset-00015,ent-002,Financial Services Operator 02 asset 07,OT,high,true
+asset-00016,ent-002,Financial Services Operator 02 asset 08,IT,high,true
+asset-00017,ent-003,Water Operator 03 asset 01,OT,critical,false
+asset-00018,ent-003,Water Operator 03 asset 02,IT,critical,false
+asset-00019,ent-003,Water Operator 03 asset 03,OT,high,true
+asset-00020,ent-003,Water Operator 03 asset 04,IT,high,true
+asset-00021,ent-003,Water Operator 03 asset 05,OT,high,true
+asset-00022,ent-003,Water Operator 03 asset 06,IT,high,true
+asset-00023,ent-003,Water Operator 03 asset 07,OT,high,true
+asset-00024,ent-003,Water Operator 03 asset 08,IT,high,true
+asset-00025,ent-004,Transport Operator 04 asset 01,OT,critical,true
+asset-00026,ent-004,Transport Operator 04 asset 02,IT,critical,true
+asset-00027,ent-004,Transport Operator 04 asset 03,OT,high,true
+asset-00028,ent-004,Transport Operator 04 asset 04,IT,high,true
+asset-00029,ent-004,Transport Operator 04 asset 05,OT,high,true
+asset-00030,ent-004,Transport Operator 04 asset 06,IT,high,true
+asset-00031,ent-004,Transport Operator 04 asset 07,OT,high,true
+asset-00032,ent-004,Transport Operator 04 asset 08,IT,high,true
+asset-00033,ent-005,Telecommunications Operator 05 asset 01,OT,critical,true
+asset-00034,ent-005,Telecommunications Operator 05 asset 02,IT,critical,true
+asset-00035,ent-005,Telecommunications Operator 05 asset 03,OT,high,true
+asset-00036,ent-005,Telecommunications Operator 05 asset 04,IT,high,true
+asset-00037,ent-005,Telecommunications Operator 05 asset 05,OT,high,true
+asset-00038,ent-005,Telecommunications Operator 05 asset 06,IT,high,true
+asset-00039,ent-005,Telecommunications Operator 05 asset 07,OT,high,true
+asset-00040,ent-005,Telecommunications Operator 05 asset 08,IT,high,true
+asset-00041,ent-006,Healthcare Operator 06 asset 01,OT,critical,true
+asset-00042,ent-006,Healthcare Operator 06 asset 02,IT,critical,true
+asset-00043,ent-006,Healthcare Operator 06 asset 03,OT,high,true
+asset-00044,ent-006,Healthcare Operator 06 asset 04,IT,high,true
+asset-00045,ent-006,Healthcare Operator 06 asset 05,OT,high,true
+asset-00046,ent-006,Healthcare Operator 06 asset 06,IT,high,true
+asset-00047,ent-006,Healthcare Operator 06 asset 07,OT,high,true
+asset-00048,ent-006,Healthcare Operator 06 asset 08,IT,high,true
+asset-00049,ent-007,Defence Operator 07 asset 01,OT,critical,true
+asset-00050,ent-007,Defence Operator 07 asset 02,IT,critical,true
+asset-00051,ent-007,Defence Operator 07 asset 03,OT,high,true
+asset-00052,ent-007,Defence Operator 07 asset 04,IT,high,true
+asset-00053,ent-007,Defence Operator 07 asset 05,OT,high,true
+asset-00054,ent-007,Defence Operator 07 asset 06,IT,high,true
+asset-00055,ent-007,Defence Operator 07 asset 07,OT,high,true
+asset-00056,ent-007,Defence Operator 07 asset 08,IT,high,true
+asset-00057,ent-008,Manufacturing Operator 08 asset 01,OT,critical,true
+asset-00058,ent-008,Manufacturing Operator 08 asset 02,IT,critical,true
+asset-00059,ent-008,Manufacturing Operator 08 asset 03,OT,high,true
+asset-00060,ent-008,Manufacturing Operator 08 asset 04,IT,high,true
+asset-00061,ent-008,Manufacturing Operator 08 asset 05,OT,high,true
+asset-00062,ent-008,Manufacturing Operator 08 asset 06,IT,high,true
+asset-00063,ent-008,Manufacturing Operator 08 asset 07,OT,high,true
+asset-00064,ent-008,Manufacturing Operator 08 asset 08,IT,high,true
+asset-00065,ent-009,Energy Operator 09 asset 01,OT,critical,true
+asset-00066,ent-009,Energy Operator 09 asset 02,IT,critical,true
+asset-00067,ent-009,Energy Operator 09 asset 03,OT,high,true
+asset-00068,ent-009,Energy Operator 09 asset 04,IT,high,true
+asset-00069,ent-009,Energy Operator 09 asset 05,OT,high,true
+asset-00070,ent-009,Energy Operator 09 asset 06,IT,high,true
+asset-00071,ent-009,Energy Operator 09 asset 07,OT,high,true
+asset-00072,ent-009,Energy Operator 09 asset 08,IT,high,true
+asset-00073,ent-010,Water Operator 10 asset 01,OT,critical,false
+asset-00074,ent-010,Water Operator 10 asset 02,IT,critical,false
+asset-00075,ent-010,Water Operator 10 asset 03,OT,high,true
+asset-00076,ent-010,Water Operator 10 asset 04,IT,high,true
+asset-00077,ent-010,Water Operator 10 asset 05,OT,high,true
+asset-00078,ent-010,Water Operator 10 asset 06,IT,high,true
+asset-00079,ent-010,Water Operator 10 asset 07,OT,high,true
+asset-00080,ent-010,Water Operator 10 asset 08,IT,high,true
+asset-00081,ent-011,Transport Operator 11 asset 01,OT,critical,true
+asset-00082,ent-011,Transport Operator 11 asset 02,IT,critical,true
+asset-00083,ent-011,Transport Operator 11 asset 03,OT,high,true
+asset-00084,ent-011,Transport Operator 11 asset 04,IT,high,true
+asset-00085,ent-011,Transport Operator 11 asset 05,OT,high,true
+asset-00086,ent-011,Transport Operator 11 asset 06,IT,high,true
+asset-00087,ent-011,Transport Operator 11 asset 07,OT,high,true
+asset-00088,ent-011,Transport Operator 11 asset 08,IT,high,true
+asset-00089,ent-012,Telecommunications Operator 12 asset 01,OT,critical,true
+asset-00090,ent-012,Telecommunications Operator 12 asset 02,IT,critical,true
+asset-00091,ent-012,Telecommunications Operator 12 asset 03,OT,high,true
+asset-00092,ent-012,Telecommunications Operator 12 asset 04,IT,high,true
+asset-00093,ent-012,Telecommunications Operator 12 asset 05,OT,high,true
+asset-00094,ent-012,Telecommunications Operator 12 asset 06,IT,high,true
+asset-00095,ent-012,Telecommunications Operator 12 asset 07,OT,high,true
+asset-00096,ent-012,Telecommunications Operator 12 asset 08,IT,high,true

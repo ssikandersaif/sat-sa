@@ -1,0 +1,13 @@
+id,name,sector,region
+ent-001,Energy Operator 01,Energy,North
+ent-002,Financial Services Operator 02,Financial Services,West
+ent-003,Water Operator 03,Water,South
+ent-004,Transport Operator 04,Transport,East
+ent-005,Telecommunications Operator 05,Telecommunications,Central
+ent-006,Healthcare Operator 06,Healthcare,North
+ent-007,Defence Operator 07,Defence,West
+ent-008,Manufacturing Operator 08,Manufacturing,South
+ent-009,Energy Operator 09,Energy,East
+ent-010,Water Operator 10,Water,Central
+ent-011,Transport Operator 11,Transport,North
+ent-012,Telecommunications Operator 12,Telecommunications,South

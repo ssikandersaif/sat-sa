@@ -1,0 +1,2 @@
+import { RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar as RechartsRadar, ResponsiveContainer } from 'recharts'
+export default function Radar({ data }) { return <div className="radar"><ResponsiveContainer width="100%" height={260}><RadarChart data={data}><PolarGrid stroke="#31404a"/><PolarAngleAxis dataKey="dimension" tick={{ fill: '#9ba8aa', fontSize: 10 }}/><PolarRadiusAxis domain={[0,100]} tick={false}/><RechartsRadar dataKey="score" stroke="#e6b75b" fill="#e6b75b" fillOpacity={0.28}/></RadarChart></ResponsiveContainer></div> }
